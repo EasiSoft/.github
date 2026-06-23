@@ -1,4 +1,4 @@
-![EasiSoft Banner](assets/easisoft-org-banner.png)
+![EasiSoft Banner](./assets/easisoft-org-banner.png)
 
 ## Hi there 👋
 

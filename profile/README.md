@@ -1,3 +1,5 @@
+![EasiSoft Banner](assets/easisoft-org-banner.png)
+
 ## Hi there 👋
 
 At **EasiSoft**, we believe software is better when it's free.  
